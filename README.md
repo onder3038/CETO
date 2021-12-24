@@ -1,2 +1,0 @@
-# CETO
-Eğlenme
